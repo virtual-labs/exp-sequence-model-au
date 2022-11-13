@@ -10,7 +10,10 @@
         "d": "noun"
       },
       "explanations": {
-       
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -21,10 +24,13 @@
         "a": "use case diagram",
         "b": "activity diagram",
         "c": "flow chart",
-        "d": "all"
+        "d": "none"
       },
       "explanations": {
-        
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -32,15 +38,18 @@
     {
       "question": "An external entity that needs to exchange information with the  system.?",
       "answers": {
-        "a": "interface",
+        "a": "actor",
         "b": "message",
         "c": "process",
-        "d": "actor"
+        "d": "interface"
       },
       "explanations": {
-       
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "d",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },    {
       "question": "A conceptual class model has?",
@@ -51,7 +60,10 @@
         "d": "all the above"
       },
       "explanations": {
-       
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -65,10 +77,13 @@
         "d": "password"
       },
       "explanations": {
-       
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    },
+    }
   ]
 }
