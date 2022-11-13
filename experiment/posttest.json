@@ -2,38 +2,73 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In object oriented programming, objects are often referred to as?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "verb",
+        "b": "pronoun",
+        "c": "adverb",
+        "d": "noun"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+       
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A general sequence of interactions between one or more actors and the system?",
+      "answers": {
+        "a": "use case diagram",
+        "b": "activity diagram",
+        "c": "flow chart",
+        "d": "all"
+      },
+      "explanations": {
+        
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "An external entity that needs to exchange information with the  system.?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "interface",
+        "b": "message",
+        "c": "process",
+        "d": "actor"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+       
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },    {
+      "question": "A conceptual class model has?",
+      "answers": {
+        "a": "domain objects",
+        "b": "attributes",
+        "c": "associations between conceptual classes",
+        "d": "all the above"
+      },
+      "explanations": {
+       
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+       {
+      "question": "Users need to login with their username and password.Choose the Verb Phrase?",
+      "answers": {
+        "a": "user",
+        "b": "username",
+        "c": "login",
+        "d": "password"
+      },
+      "explanations": {
+       
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
   ]
 }
