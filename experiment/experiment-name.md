@@ -1,1 +1,1 @@
-## Design the time sequence model from USE CASE depicting the interaction of the objects. 
+## Design the time sequence model from use case depicting the interaction of the objects. 
