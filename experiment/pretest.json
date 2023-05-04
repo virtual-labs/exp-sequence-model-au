@@ -1,39 +1,44 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "1.Identify the mistake in the following diagram:",
+        "answers": {
+          "a": "a.Improper sequence numbering",
+          "b": "b.Loop should be replaced with Alt",
+          "c": "c.Interfaces should not be placed in sequence diagram",
+          "d": "d.Communication is not in order"
+        },
+        "explanations": {
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "2.Which of the following statements is true about drawing time sequence diagrams?",
+        "answers": {
+          "a": "a.A time sequence diagram is used to visualize the interactions between objects in a system over a period of time.",
+          "b": "b.A time sequence diagram is used to show the structural relationships between objects in a system.",
+          "c": "c.A time sequence diagram is used to illustrate the flow of control within a single object in a system.",
+          "d": "d.A time sequence diagram is used to document the architecture of a system."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "3.When drawing a time sequence diagram, which of the following statements is true?",
+        "answers": {
+          "a": "a.The vertical axis represents the objects involved in the system, while the horizontal axis represents time.",
+          "b": "b.The vertical axis represents time, while the horizontal axis represents the objects involved in the system.",
+          "c": "c.The vertical axis represents the messages exchanged between objects, while the horizontal axis represents time.",
+          "d": "d.The vertical axis represents the messages exchanged between objects, while the horizontal axis represents time."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
