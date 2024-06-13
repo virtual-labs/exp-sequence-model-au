@@ -38,3 +38,5 @@ Case study :  Consider a use case of the car rental application as follows,
 * **Actors** : Front-Desk Clerk, Customer.
 
 Student could draw a sequence diagram based on the architecture to show the interaction between the objects.  
+
+Proceed by clicking on the Simulation tab and navigate through it reading all the instructions carefully. Use the help button provided to understand the interaction.
