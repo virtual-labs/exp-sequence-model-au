@@ -1,0 +1,44 @@
+{
+    "version": 2.0,
+    "questions": [
+     {
+"question": "1. In a sequence diagram, what is the primary purpose of a 'lifeline'?",
+"answers": {
+"a": "To represent the sequence of events in chronological order",
+"b": "To show the duration of an object's existence",
+"c": "To illustrate conditional branching",
+"d": "To depict the flow of data between objects"
+},
+"explanations": {
+},
+"correctAnswer": "b",
+"difficulty": "beginner"
+}
+      {
+        "question": "2.Which of the following statements is true about drawing time sequence diagrams?",
+        "answers": {
+          "a": "A time sequence diagram is used to visualize the interactions between objects in a system over a period of time.",
+          "b": "A time sequence diagram is used to show the structural relationships between objects in a system.",
+          "c": "A time sequence diagram is used to illustrate the flow of control within a single object in a system.",
+          "d": "A time sequence diagram is used to document the architecture of a system."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "3.When drawing a time sequence diagram, which of the following statements is true?",
+        "answers": {
+          "a": "The vertical axis represents the objects involved in the system, while the horizontal axis represents time.",
+          "b": "The vertical axis represents time, while the horizontal axis represents the objects involved in the system.",
+          "c": "The vertical axis represents the messages exchanged between objects, while the horizontal axis represents time.",
+          "d": "The vertical axis represents the messages exchanged between objects, while the horizontal axis represents time."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
