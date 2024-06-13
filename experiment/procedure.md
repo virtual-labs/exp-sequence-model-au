@@ -27,3 +27,5 @@ Step 2: Fine tune the verb phrases to convert them to operations performed by th
 Step 3: Complete the method invocation/message passing between the objects to implement the basic flow of the use case. 
 
 Output: Time sequence model is constructed for the given use case.
+
+Proceed with clicking on the Simulation and step by step information is given at each page with help buttons to assist you along the way!
