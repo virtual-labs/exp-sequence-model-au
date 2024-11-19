@@ -1,0 +1,45 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "1.On January 20 2020, Merlin has asked the following question on the popular StackOverflow: “I want to know in detail about the difference between alt and opt fragment in sequence diagram, they seem similar, I can’t distinguish them. Anyone knows about this thing?” Which of the following answers are correct?",
+        "answers": {
+          "a": "alt is more used for several choices, like a switch, while with opt code will be executed or not!",
+          "b": "alt is used to described alternative scenarios. Only one of the options will be executed. opt is used to describe an optional step.",
+          "c": "an opt fragment cannot be enclosed in other combined fragments such as strict or par, while alt can be enclosed in such fragments.",
+          "d": "an alt fragment cannot be enclosed in other combined fragments such as strict or par, while opt can be enclosed in such fragments.",
+          "e": "Both a and b."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "e",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "2.Suppose you are working on a software project for a hotel reservation system. You need to create a time sequence diagram to show how the system handles a new reservation request. Which of the following steps should you follow to draw the diagram?",
+        "answers": {
+          "a": "Identify the objects involved in the scenario, and create a lifeline for each object.",
+          "b": "Identify the attributes and methods of each object, and define them in the diagram.",
+          "c": "Identify the events that occur in the scenario, and show the sequence of events on the diagram.",
+          "d": "Identify the classes that the objects belong to, and show the relationships between the classes on the diagram."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which of the following best describes the time sequence diagram generation process for the 'Release a Vehicle' use case?",
+        "answers": {
+          "a": "It involves identifying the actors and their roles in the use case.",
+          "b": "It involves creating a graphical representation of the interactions between the actors and the system, in a chronological order.",
+          "c": "It involves creating a list of all possible scenarios that can occur within the use case.",
+          "d": "It involves documenting the requirements of the use case."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
