@@ -6,8 +6,7 @@
         'discipline': 'Test',
         'college': 'AU',
         'phase': 'Testing',
-        'expName': 'DESIGN THE TIME SEQUENCE MODEL FROM USE CASE DEPICTING THE INTERACTION OF THE
-    OBJECTS.',
+        'expName': 'DESIGN THE TIME SEQUENCE MODEL FROM USE CASE DEPICTING THE INTERACTION OF THE OBJECTS.',
         'expShortName': 'sequence-model'
         }];
     
@@ -359,7 +358,7 @@
                 
                 
                   <div class="question beginner">
-                    1.On January 20 2020, Merlin has asked the following question on the popular StackOverflow: “I want to know in detail about the difference between alt and opt fragment in sequence diagram, they seem similar, I can’t distinguish them. Anyone knows about this thing?” Which of the following answers are correct?
+                    1. On January 20 2020, Merlin has asked the following question on the popular StackOverflow: “I want to know in detail about the difference between alt and opt fragment in sequence diagram, they seem similar, I can’t distinguish them. Anyone knows about this thing?” Which of the following answers are correct?
                   </div>
                   
                   <div class="answers">
@@ -406,7 +405,7 @@
                 </div>
                 
                   <div class="question beginner">
-                    2.Suppose you are working on a software project for a hotel reservation system. You need to create a time sequence diagram to show how the system handles a new reservation request. Which of the following steps should you follow to draw the diagram?
+                    2. Suppose you are working on a software project for a hotel reservation system. You need to create a time sequence diagram to show how the system handles a new reservation request. Which of the following steps should you follow to draw the diagram?
                   </div>
                   
                   <div class="answers">
@@ -445,7 +444,7 @@
                 </div>
                 
                   <div class="question beginner">
-                    Which of the following best describes the time sequence diagram generation process for the 'Release a Vehicle' use case?
+                    3. Which of the following best describes the time sequence diagram generation process for the 'Release a Vehicle' use case?
                   </div>
                   
                   <div class="answers">
@@ -482,13 +481,92 @@
                     </div>
                     <p class="panel">Explanation</p>
                 </div>
+
+                <div class="question beginner">
+                    4. In a sequence diagram, how are messages typically depicted?
+                  </div>
+                  
+                  <div class="answers">
+                    <div id="answer3a">
+                      <label>
+                        <input type="radio" name="question3" value="a">
+                        a: As boxes.
+                      </label>
+                      <a href="#" id="explanation3a" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer3b">
+                      <label>
+                        <input type="radio" name="question3" value="b">
+                        b: As arrows.
+                      </label>
+                      <a href="#" id="explanation3b" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer3c">
+                      <label>
+                        <input type="radio" name="question3" value="c">
+                        c: As lines.
+                      </label>
+                      <a href="#" id="explanation3c" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer3d">
+                      <label>
+                        <input type="radio" name="question3" value="d">
+                        d: As circles.
+                      </label>
+                      <a href="#" id="explanation3d" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                </div>
+
+                <div class="question beginner">
+                    5. What does an arrow between lifelines in a sequence diagram typically represent?
+                  </div>
+                  
+                  <div class="answers">
+                    <div id="answer4a">
+                      <label>
+                        <input type="radio" name="question4" value="a">
+                        a: A state change.
+                      </label>
+                      <a href="#" id="explanation4a" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer4b">
+                      <label>
+                        <input type="radio" name="question4" value="b">
+                        b: A message is being sent.
+                      </label>
+                      <a href="#" id="explanation4b" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer4c">
+                      <label>
+                        <input type="radio" name="question4" value="c">
+                        c: A class relationship.
+                      </label>
+                      <a href="#" id="explanation4c" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                    <div id="answer4d">
+                      <label>
+                        <input type="radio" name="question4" value="d">
+                        d: An object being created.
+                      </label>
+                      <a href="#" id="explanation4d" class="accordion" onclick="return false;">Explanation</a>
+                    </div>
+                    <p class="panel">Explanation</p>
+                </div>
+
                </div>
                 <button id="submit" class="btn btn-primary">Submit Quiz</button>
                 <div id="results"></div>
           </div>
             
             <script>
-              const myQuestions = [{"question":"1.On January 20 2020, Merlin has asked the following question on the popular StackOverflow: “I want to know in detail about the difference between alt and opt fragment in sequence diagram, they seem similar, I can’t distinguish them. Anyone knows about this thing?” Which of the following answers are correct?","answers":{"a":"alt is more used for several choices, like a switch, while with opt code will be executed or not!","b":"alt is used to described alternative scenarios. Only one of the options will be executed. opt is used to describe an optional step.","c":"an opt fragment cannot be enclosed in other combined fragments such as strict or par, while alt can be enclosed in such fragments.","d":"an alt fragment cannot be enclosed in other combined fragments such as strict or par, while opt can be enclosed in such fragments.","e":"Both a and b."},"explanations":{},"correctAnswer":"e","difficulty":"beginner"},{"question":"2.Suppose you are working on a software project for a hotel reservation system. You need to create a time sequence diagram to show how the system handles a new reservation request. Which of the following steps should you follow to draw the diagram?","answers":{"a":"Identify the objects involved in the scenario, and create a lifeline for each object.","b":"Identify the attributes and methods of each object, and define them in the diagram.","c":"Identify the events that occur in the scenario, and show the sequence of events on the diagram.","d":"Identify the classes that the objects belong to, and show the relationships between the classes on the diagram."},"explanations":{},"correctAnswer":"a","difficulty":"beginner"},{"question":"Which of the following best describes the time sequence diagram generation process for the 'Release a Vehicle' use case?","answers":{"a":"It involves identifying the actors and their roles in the use case.","b":"It involves creating a graphical representation of the interactions between the actors and the system, in a chronological order.","c":"It involves creating a list of all possible scenarios that can occur within the use case.","d":"It involves documenting the requirements of the use case."},"explanations":{},"correctAnswer":"b","difficulty":"beginner"}];
+              const myQuestions = [{"question":"1.On January 20 2020, Merlin has asked the following question on the popular StackOverflow: “I want to know in detail about the difference between alt and opt fragment in sequence diagram, they seem similar, I can’t distinguish them. Anyone knows about this thing?” Which of the following answers are correct?","answers":{"a":"alt is more used for several choices, like a switch, while with opt code will be executed or not!","b":"alt is used to described alternative scenarios. Only one of the options will be executed. opt is used to describe an optional step.","c":"an opt fragment cannot be enclosed in other combined fragments such as strict or par, while alt can be enclosed in such fragments.","d":"an alt fragment cannot be enclosed in other combined fragments such as strict or par, while opt can be enclosed in such fragments.","e":"Both a and b."},"explanations":{},"correctAnswer":"e","difficulty":"beginner"},{"question":"2.Suppose you are working on a software project for a hotel reservation system. You need to create a time sequence diagram to show how the system handles a new reservation request. Which of the following steps should you follow to draw the diagram?","answers":{"a":"Identify the objects involved in the scenario, and create a lifeline for each object.","b":"Identify the attributes and methods of each object, and define them in the diagram.","c":"Identify the events that occur in the scenario, and show the sequence of events on the diagram.","d":"Identify the classes that the objects belong to, and show the relationships between the classes on the diagram."},"explanations":{},"correctAnswer":"a","difficulty":"beginner"},{"question":"Which of the following best describes the time sequence diagram generation process for the 'Release a Vehicle' use case?","answers":{"a":"It involves identifying the actors and their roles in the use case.","b":"It involves creating a graphical representation of the interactions between the actors and the system, in a chronological order.","c":"It involves creating a list of all possible scenarios that can occur within the use case.","d":"It involves documenting the requirements of the use case."},"explanations":{},"correctAnswer":"b","difficulty":"beginner"},{"question":"4. In a sequence diagram, how are messages typically depicted?","answers":{"a":"As boxes.","b":"As arrows.","c":"As lines.","d":"As circles."},"explanations":{},"correctAnswer":"b","difficulty":"beginner"},{"question":"5. What does an arrow between lifelines in a sequence diagram typically represent?","answers":{"a":"A state change.","b":"A message is being sent.","c":"A class relationship.","d":"An object being created."},"explanations":{},"correctAnswer":"b","difficulty":"beginner"}];
             </script>
               <script src="./assets/js/assessment_v2.js"></script>  
           <div class="bug-report-mobile">
