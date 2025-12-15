@@ -1,0 +1,96 @@
+
+/home/runner/work/exp-sequence-model-au/exp-sequence-model-au/experiment/simulation/js/app.48b09128.js
+  1:89     warning  'e' is defined but never used           no-unused-vars
+  1:91     warning  't' is defined but never used           no-unused-vars
+  1:1367   warning  't' is defined but never used           no-unused-vars
+  1:6375   warning  'e' is defined but never used           no-unused-vars
+  1:14359  warning  'e' is defined but never used           no-unused-vars
+  1:18291  warning  'e' is defined but never used           no-unused-vars
+  1:18441  warning  'e' is defined but never used           no-unused-vars
+  1:18587  warning  'e' is defined but never used           no-unused-vars
+  1:18736  warning  'e' is defined but never used           no-unused-vars
+  1:22597  warning  'e' is defined but never used           no-unused-vars
+  1:27340  warning  'e' is defined but never used           no-unused-vars
+  1:28863  warning  'e' is defined but never used           no-unused-vars
+  1:29280  warning  'e' is defined but never used           no-unused-vars
+  1:29701  warning  'e' is defined but never used           no-unused-vars
+  1:30112  warning  'e' is defined but never used           no-unused-vars
+  1:30534  warning  'e' is defined but never used           no-unused-vars
+  1:30956  warning  'e' is defined but never used           no-unused-vars
+  1:31381  warning  'e' is defined but never used           no-unused-vars
+  1:31808  warning  'e' is defined but never used           no-unused-vars
+  1:32233  warning  'e' is defined but never used           no-unused-vars
+  1:32656  warning  'e' is defined but never used           no-unused-vars
+  1:33085  warning  'e' is defined but never used           no-unused-vars
+  1:33517  warning  'e' is defined but never used           no-unused-vars
+  1:33733  warning  't' is defined but never used           no-unused-vars
+  1:38099  warning  'e' is defined but never used           no-unused-vars
+  1:40417  warning  'e' is defined but never used           no-unused-vars
+  1:40956  warning  'e' is defined but never used           no-unused-vars
+  1:40958  warning  't' is defined but never used           no-unused-vars
+  1:40960  warning  'i' is defined but never used           no-unused-vars
+  1:40962  warning  'l' is defined but never used           no-unused-vars
+  1:40964  warning  'n' is defined but never used           no-unused-vars
+  1:40966  warning  'a' is defined but never used           no-unused-vars
+  1:43045  warning  'e' is defined but never used           no-unused-vars
+  1:45860  warning  'e' is defined but never used           no-unused-vars
+  1:45998  warning  'e' is defined but never used           no-unused-vars
+  1:46136  warning  'e' is defined but never used           no-unused-vars
+  1:46276  warning  'e' is defined but never used           no-unused-vars
+  1:55165  warning  'l' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-sequence-model-au/exp-sequence-model-au/experiment/simulation/js/chunk-vendors.4f60dd7e.js
+  1:1813   warning  Empty block statement                                                            no-empty
+  1:3883   warning  Do not access Object.prototype method 'hasOwnProperty' from target object        no-prototype-builtins
+  1:5407   warning  Do not access Object.prototype method 'propertyIsEnumerable' from target object  no-prototype-builtins
+  1:6037   warning  'b.get' is assigned to itself                                                    no-self-assign
+  1:6049   warning  'b.has' is assigned to itself                                                    no-self-assign
+  1:6061   warning  'b.set' is assigned to itself                                                    no-self-assign
+  1:8223   warning  Empty block statement                                                            no-empty
+  1:9006   warning  Empty block statement                                                            no-empty
+  1:9311   warning  Empty block statement                                                            no-empty
+  1:13496  warning  'e' is defined but never used                                                    no-unused-vars
+  1:13915  warning  'e' is defined but never used                                                    no-unused-vars
+  1:16594  warning  't' is defined but never used                                                    no-unused-vars
+  1:16694  warning  'i' is defined but never used                                                    no-unused-vars
+  1:16696  warning  's' is defined but never used                                                    no-unused-vars
+  1:17381  warning  't' is defined but never used                                                    no-unused-vars
+  1:18063  warning  Do not access Object.prototype method 'hasOwnProperty' from target object        no-prototype-builtins
+  1:19235  warning  'e' is defined but never used                                                    no-unused-vars
+  1:19237  warning  't' is defined but never used                                                    no-unused-vars
+  1:19265  warning  'e' is defined but never used                                                    no-unused-vars
+  1:19267  warning  't' is defined but never used                                                    no-unused-vars
+  1:20908  warning  't' is defined but never used                                                    no-unused-vars
+  1:23004  warning  't' is defined but never used                                                    no-unused-vars
+  1:25632  warning  'r' is assigned a value but never used                                           no-unused-vars
+  1:26315  warning  'e' is defined but never used                                                    no-unused-vars
+  1:27993  warning  'n' is defined but never used                                                    no-unused-vars
+  1:30185  warning  'u' is assigned a value but never used                                           no-unused-vars
+  1:30197  warning  'a' is assigned a value but never used                                           no-unused-vars
+  1:32566  warning  'e' is assigned a value but never used                                           no-unused-vars
+  1:35087  warning  'de' is defined but never used                                                   no-unused-vars
+  1:35550  warning  'ye' is defined but never used                                                   no-unused-vars
+  1:35601  warning  'be' is defined but never used                                                   no-unused-vars
+  1:36616  warning  'n' is assigned a value but never used                                           no-unused-vars
+  1:39268  warning  'b' is assigned a value but never used                                           no-unused-vars
+  1:39296  warning  'w' is assigned a value but never used                                           no-unused-vars
+  1:39444  warning  'A' is assigned a value but never used                                           no-unused-vars
+  1:39901  warning  Setter cannot return a value                                                     no-setter-return
+  1:40341  warning  Setter cannot return a value                                                     no-setter-return
+  1:40501  warning  'n' is assigned a value but never used                                           no-unused-vars
+  1:40741  warning  Setter cannot return a value                                                     no-setter-return
+  1:45144  warning  'n' is defined but never used                                                    no-unused-vars
+  1:62648  warning  'n' is defined but never used                                                    no-unused-vars
+  1:64802  warning  Unexpected constant condition                                                    no-constant-condition
+  1:66027  warning  'i' is defined but never used                                                    no-unused-vars
+  1:67062  warning  Expected a conditional expression and instead saw an assignment                  no-cond-assign
+  1:78041  warning  Do not access Object.prototype method 'hasOwnProperty' from target object        no-prototype-builtins
+  1:78063  warning  Do not access Object.prototype method 'hasOwnProperty' from target object        no-prototype-builtins
+  7:1707   warning  Unnecessary escape character: \/                                                 no-useless-escape
+  7:2935   warning  't' is defined but never used                                                    no-unused-vars
+  7:10572  warning  Empty block statement                                                            no-empty
+  7:14902  warning  'i' is defined but never used                                                    no-unused-vars
+  7:20477  warning  'e' is defined but never used                                                    no-unused-vars
+
+✖ 89 problems (0 errors, 89 warnings)
+
