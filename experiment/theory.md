@@ -15,7 +15,7 @@
         * it's okay to omit things from UML diagrams if they aren't needed by team/supervisor/instructor
 * Beginning of software system design is depicted in the following picture:
 
-![fig1](/experiment/images/fig_1.jpg)
+![fig1](fig_1.jpg)
 
 
 **Time Sequence**
@@ -45,12 +45,12 @@ Sequence diagram emphasized on time ordering!
         * horizontal: which object/participant is acting.
             * X-axis is objects.
                 * Object that initiates interaction is left most
-                * Object to the right are increasingly more subordinate<br> ![fig2](/experiment/images/fig_2.jpg)
+                * Object to the right are increasingly more subordinate<br> ![fig2](fig_2.jpg)
 
         * vertical: time (down implies forward in time)
             * Y-axis is time
-                * Messages sent and received are ordered by time.<br> ![fig3](/experiment/images/fig_3.jpg) <br> ![fig4](/experiment/images/fig_4.jpg)
-                * Activation (double line) is the execution of the procedure<br>  ![fig5](/experiment/images/fig_5.jpg)
+                * Messages sent and received are ordered by time.<br> ![fig3](fig_3.jpg) <br> ![fig4](fig_4.jpg)
+                * Activation (double line) is the execution of the procedure<br>  ![fig5](fig_5.jpg)
                 * Object lifelines represent the existence over a period of time
 
 * Steps for Building a Sequence Diagram
